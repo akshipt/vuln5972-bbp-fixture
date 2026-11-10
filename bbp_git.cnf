@@ -1,0 +1,3 @@
+[client]
+plugin-dir=/tmp
+default-auth=bbp_client
